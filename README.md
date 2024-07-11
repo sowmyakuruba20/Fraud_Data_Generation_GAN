@@ -1,5 +1,5 @@
 # Fraud Data Generation using GANs
-
+![screenshot](gan.png)
 ## Overview
 This project focuses on generating synthetic fraud data using Generative Adversarial Networks (GANs). The primary goal is to create realistic synthetic data that can be used for training and testing machine learning models for fraud detection
 
